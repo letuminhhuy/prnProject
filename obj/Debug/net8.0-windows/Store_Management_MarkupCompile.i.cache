@@ -1,0 +1,20 @@
+﻿Store_Management
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\
+Store_Management
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\App.xaml
+16-1796747989
+
+71-1948835415
+2701751086162
+Resources\Style.xaml;Resources\ViewModelTemplate.xaml;Views\AuthorView\AuthorDetail.xaml;Views\EmployeeView\EmployeeDetails.xaml;Views\EmployeeView\EmployeeList.xaml;Views\EmployeeView\EmployeeWindow.xaml;Views\EmployeeView\Login.xaml;Views\EmployeeView\Signup.xaml;Views\HomePage.xaml;Views\MainWindow.xaml;Views\Product\AddBook.xaml;Views\Product\BookDetail.xaml;Views\Product\ListProduct.xaml;Views\SaleView\CreateSale.xaml;Views\SaleView\CreateSaleItem.xaml;Views\SaleView\SaleHistory.xaml;
+
+True
+

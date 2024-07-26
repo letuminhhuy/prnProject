@@ -1,0 +1,21 @@
+﻿<Window x:Class="Store_Management.Views.EmployeeView.EmployeeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Store_Management.Views.EmployeeView"
+        xmlns:employeeVM="clr-namespace:Store_Management.ViewModels.EmployeeVM"
+        d:DataContext="{d:DesignInstance employeeVM:EmployeeWindowVM}"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="EmployeeWindow" Height="500" Width="500"
+         Style="{StaticResource MaterialDesignWindow}"
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" xmlns:employeevm="clr-namespace:Store_Management.ViewModels.EmployeeVM"
+        >
+
+    <Grid Background="#f0f0f0">
+
+        <!--<ContentControl Content="{Binding CurrentPage}" />-->
+        <Frame NavigationUIVisibility="Hidden" Content="{Binding CurrentPage}"/>
+    </Grid>
+</Window>

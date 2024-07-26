@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\fpt\\semeter v\\prn212\\groupproject\\booking-management\\data\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:data\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\fpt\\semeter v\\prn212\\groupproject\\booking-management\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\fpt\\semeter v\\prn212\\groupproject\\booking-management\\views\\employeeview\\employeelist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:views\\employeeview\\employeelist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\fpt\\semeter v\\prn212\\groupproject\\booking-management\\viewmodels\\salevm\\salehistoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:viewmodels\\salevm\\salehistoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\fpt\\semeter v\\prn212\\groupproject\\booking-management\\views\\saleview\\salehistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:views\\saleview\\salehistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\fpt\\semeter v\\prn212\\groupproject\\booking-management\\views\\saleview\\createsale.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:views\\saleview\\createsale.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\fpt\\semeter v\\prn212\\groupproject\\booking-management\\views\\product\\listproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:views\\product\\listproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\fpt\\semeter v\\prn212\\groupproject\\booking-management\\data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\fpt\\semeter v\\prn212\\groupproject\\booking-management\\viewmodels\\productvm\\listproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:viewmodels\\productvm\\listproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\fpt\\semeter v\\prn212\\groupproject\\booking-management\\viewmodels\\employeevm\\employeedetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:viewmodels\\employeevm\\employeedetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\fpt\\semeter v\\prn212\\groupproject\\booking-management\\utils\\dialogutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:utils\\dialogutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\fpt\\semeter v\\prn212\\groupproject\\booking-management\\views\\employeeview\\employeedetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:views\\employeeview\\employeedetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\Data\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Sale.cs",
+              "ToolTip": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\Data\\Models\\Sale.cs",
+              "RelativeToolTip": "Data\\Models\\Sale.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T01:08:32.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaleService.cs",
+              "DocumentMoniker": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\Services\\SaleService.cs",
+              "RelativeDocumentMoniker": "Services\\SaleService.cs",
+              "ToolTip": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\Services\\SaleService.cs",
+              "RelativeToolTip": "Services\\SaleService.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAwGsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T01:04:18.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaleHistoryVM.cs",
+              "DocumentMoniker": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\ViewModels\\SaleVM\\SaleHistoryVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\SaleVM\\SaleHistoryVM.cs",
+              "ToolTip": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\ViewModels\\SaleVM\\SaleHistoryVM.cs",
+              "RelativeToolTip": "ViewModels\\SaleVM\\SaleHistoryVM.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T01:02:48.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaleHistory.xaml",
+              "DocumentMoniker": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\Views\\SaleView\\SaleHistory.xaml",
+              "RelativeDocumentMoniker": "Views\\SaleView\\SaleHistory.xaml",
+              "ToolTip": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\Views\\SaleView\\SaleHistory.xaml",
+              "RelativeToolTip": "Views\\SaleView\\SaleHistory.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-26T01:02:24.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateSale.xaml",
+              "DocumentMoniker": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\Views\\SaleView\\CreateSale.xaml",
+              "RelativeDocumentMoniker": "Views\\SaleView\\CreateSale.xaml",
+              "ToolTip": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\Views\\SaleView\\CreateSale.xaml",
+              "RelativeToolTip": "Views\\SaleView\\CreateSale.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-26T01:02:02.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\Data\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Book.cs",
+              "ToolTip": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\Data\\Models\\Book.cs",
+              "RelativeToolTip": "Data\\Models\\Book.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAcwBgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:56:09.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListProductVM.cs",
+              "DocumentMoniker": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\ViewModels\\ProductVM\\ListProductVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProductVM\\ListProductVM.cs",
+              "ToolTip": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\ViewModels\\ProductVM\\ListProductVM.cs",
+              "RelativeToolTip": "ViewModels\\ProductVM\\ListProductVM.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAYwEIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:53:08.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListProduct.xaml",
+              "DocumentMoniker": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\Views\\Product\\ListProduct.xaml",
+              "RelativeDocumentMoniker": "Views\\Product\\ListProduct.xaml",
+              "ToolTip": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\Views\\Product\\ListProduct.xaml",
+              "RelativeToolTip": "Views\\Product\\ListProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-26T00:52:58.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeList.xaml",
+              "DocumentMoniker": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\Views\\EmployeeView\\EmployeeList.xaml",
+              "RelativeDocumentMoniker": "Views\\EmployeeView\\EmployeeList.xaml",
+              "ToolTip": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\Views\\EmployeeView\\EmployeeList.xaml",
+              "RelativeToolTip": "Views\\EmployeeView\\EmployeeList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-26T00:52:44.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeDetailsVM.cs",
+              "DocumentMoniker": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\ViewModels\\EmployeeVM\\EmployeeDetailsVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EmployeeVM\\EmployeeDetailsVM.cs",
+              "ToolTip": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\ViewModels\\EmployeeVM\\EmployeeDetailsVM.cs",
+              "RelativeToolTip": "ViewModels\\EmployeeVM\\EmployeeDetailsVM.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:43:47.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DialogUtil.cs",
+              "DocumentMoniker": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\Utils\\DialogUtil.cs",
+              "RelativeDocumentMoniker": "Utils\\DialogUtil.cs",
+              "ToolTip": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\Utils\\DialogUtil.cs",
+              "RelativeToolTip": "Utils\\DialogUtil.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:42:38.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeDetails.xaml",
+              "DocumentMoniker": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\Views\\EmployeeView\\EmployeeDetails.xaml",
+              "RelativeDocumentMoniker": "Views\\EmployeeView\\EmployeeDetails.xaml",
+              "ToolTip": "D:\\FPT\\Semeter V\\PRN212\\groupProject\\booking-management\\Views\\EmployeeView\\EmployeeDetails.xaml",
+              "RelativeToolTip": "Views\\EmployeeView\\EmployeeDetails.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-26T00:31:24.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:vm="clr-namespace:Store_Management.ViewModels"
+                    xmlns:productVM="clr-namespace:Store_Management.ViewModels.ProductVM"
+                    xmlns:publisherVM="clr-namespace:Store_Management.ViewModels.PublisherVM"
+                    xmlns:employeeVM="clr-namespace:Store_Management.ViewModels.EmployeeVM"
+                    xmlns:authorVM="clr-namespace:Store_Management.ViewModels.AuthorVM"
+                    xmlns:saleVM="clr-namespace:Store_Management.ViewModels.SaleVM"
+                    
+                    xmlns:v="clr-namespace:Store_Management.Views"
+                    xmlns:productv="clr-namespace:Store_Management.Views.Product"
+                    xmlns:employeeView="clr-namespace:Store_Management.Views.EmployeeView"
+                    xmlns:saleView="clr-namespace:Store_Management.Views.SaleView"
+                    xmlns:authorView="clr-namespace:Store_Management.Views.AuthorView"
+                    >
+
+    <DataTemplate DataType="{x:Type vm:HomeVM}">
+        <v:HomePage/>
+    </DataTemplate>
+    
+    <!--Employee-->
+    <DataTemplate DataType="{x:Type employeeVM:LoginVM}">
+        <employeeView:Login/>
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type employeeVM:SignupVM}">
+        <employeeView:Signup/>
+    </DataTemplate>  
+    <DataTemplate DataType="{x:Type employeeVM:EmployeeDetailsVM}">
+        <employeeView:EmployeeDetails/>
+    </DataTemplate>  
+    <DataTemplate DataType="{x:Type employeeVM:EmployeeListVM}">
+        <employeeView:EmployeeList/>
+    </DataTemplate>
+    
+    <!--Sale-->
+    <DataTemplate DataType="{x:Type saleVM:CreateSaleVM}">
+        <saleView:CreateSale/>
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type saleVM:CreateSaleItemVM}">
+        <saleView:CreateSaleItem/>
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type saleVM:SaleHistoryVM}">
+        <saleView:SaleHistory/>
+    </DataTemplate>
+    <!--Product-->
+    <DataTemplate DataType="{x:Type productVM:ListProductVM}">
+        <productv:ListProduct/>
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type productVM:BookDetailVM}">
+        <productv:BookDetail/>
+    </DataTemplate>
+
+    <!--Author-->
+    <DataTemplate DataType="{x:Type authorVM:AuthorDetailVM}">
+        <authorView:AuthorDetail/>
+    </DataTemplate>
+
+</ResourceDictionary>

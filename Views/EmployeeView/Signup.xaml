@@ -1,0 +1,98 @@
+﻿<UserControl x:Class="Store_Management.Views.EmployeeView.Signup"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Store_Management.Views.EmployeeView"
+             xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="400"
+              xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+             xmlns:employeevm="clr-namespace:Store_Management.ViewModels.EmployeeVM" d:DataContext="{d:DesignInstance Type=employeevm:SignupVM}">
+    <Grid VerticalAlignment="Center" Background="{DynamicResource MaterialDesignPaper}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackPanel VerticalAlignment="Center" Margin="20">
+            <TextBlock Text="Sign Up" HorizontalAlignment="Center" FontSize="24" Margin="0,0,0,20" />
+
+            <TextBox Margin="0,0,0,20" 
+                    Style="{StaticResource DefaultTextBoxStyle}"
+                   materialDesign:HintAssist.Hint="Full name" 
+                   materialDesign:TextFieldAssist.DecorationVisibility="Hidden"
+                   Width="250" 
+                   HorizontalAlignment="Center"
+                   Text="{Binding FullName}" />
+
+            <TextBox Margin="0,0,0,20" 
+                    Style="{StaticResource DefaultTextBoxStyle}"
+                   materialDesign:HintAssist.Hint="Phone number" 
+                   materialDesign:TextFieldAssist.DecorationVisibility="Hidden"
+                   Width="250" 
+                   HorizontalAlignment="Center"
+                   Text="{Binding Phone}" />
+
+            <TextBox Margin="0,0,0,20" 
+                      Style="{StaticResource DefaultTextBoxStyle}"
+                   materialDesign:HintAssist.Hint="Email" 
+                   materialDesign:TextFieldAssist.DecorationVisibility="Hidden"
+                   Width="250" 
+                   HorizontalAlignment="Center"
+                   Text="{Binding Email}" />
+
+            <PasswordBox Margin="0,0,0,20" 
+                       Name="Password"
+                       materialDesign:HintAssist.Hint="Password" 
+                       materialDesign:HintAssist.FloatingScale="1" 
+                       materialDesign:TextFieldAssist.DecorationVisibility="Hidden"
+                       Width="250" 
+                       HorizontalAlignment="Center"
+                          Style="{StaticResource MaterialDesignFloatingHintPasswordBox}"
+                  >
+                <i:Interaction.Triggers >
+                    <i:EventTrigger EventName="PasswordChanged">
+                        <i:InvokeCommandAction 
+                          Command="{Binding OnPasswordChangedCmd}"
+                          CommandParameter="{Binding ElementName=Password}"
+                          />
+                    </i:EventTrigger>
+                </i:Interaction.Triggers>
+
+            </PasswordBox>
+
+            <PasswordBox Margin="0,0,0,20" 
+                       Name="ConfirmPassword"
+                           materialDesign:HintAssist.FloatingScale="1" 
+                       materialDesign:HintAssist.Hint="Confirm password" 
+                       materialDesign:TextFieldAssist.DecorationVisibility="Hidden"
+                       Width="250" 
+                       HorizontalAlignment="Center"
+                          Style="{StaticResource MaterialDesignFloatingHintPasswordBox}"
+                  >
+                <i:Interaction.Triggers >
+                    <i:EventTrigger EventName="PasswordChanged">
+                        <i:InvokeCommandAction 
+                          Command="{Binding OnConfirmPasswordChangedCmd}"
+                          CommandParameter="{Binding ElementName=ConfirmPassword}"
+                          />
+                    </i:EventTrigger>
+                </i:Interaction.Triggers>
+
+            </PasswordBox>
+
+            <Button Content="Create new account" 
+                  Width="200" 
+                  HorizontalAlignment="Center"
+                  Command="{Binding SignUpCmd}" />
+            <Button
+               Width="240"
+               Margin="0,10,0,0"
+               Content="Already have account? Login >>"
+               IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+               Style="{StaticResource  MaterialDesignFlatDarkButton}"
+               Command="{Binding ToLoginCmd}"
+               />   
+        </StackPanel>
+    </Grid>
+</UserControl>

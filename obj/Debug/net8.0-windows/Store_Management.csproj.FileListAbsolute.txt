@@ -1,0 +1,591 @@
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Store_Management.exe
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\appsettings.json
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Store_Management.deps.json
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Store_Management.runtimeconfig.json
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Store_Management.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Store_Management.pdb
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\LiveCharts.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.DataProtection.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Features.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Identity.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Identity.Core.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.WebEncoders.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Net.Http.Headers.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Code\Support\WPF C#\BookStore\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Store_Management.csproj.AssemblyReference.cache
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Resources\Style.baml
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\AuthorView\AuthorDetail.g.cs
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\EmployeeView\EmployeeDetails.g.cs
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\EmployeeView\EmployeeList.g.cs
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\EmployeeView\EmployeeWindow.g.cs
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\EmployeeView\Login.g.cs
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\EmployeeView\Signup.g.cs
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\HomePage.g.cs
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\Product\AddBook.g.cs
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\Product\BookDetail.g.cs
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\Product\ListProduct.g.cs
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\SaleView\CreateSale.g.cs
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\SaleView\CreateSaleItem.g.cs
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\SaleView\SaleHistory.g.cs
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\App.g.cs
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Store_Management_MarkupCompile.cache
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Store_Management_MarkupCompile.lref
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\App.baml
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Resources\ViewModelTemplate.baml
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\AuthorView\AuthorDetail.baml
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\EmployeeView\EmployeeDetails.baml
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\EmployeeView\EmployeeList.baml
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\EmployeeView\EmployeeWindow.baml
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\EmployeeView\Login.baml
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\EmployeeView\Signup.baml
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\HomePage.baml
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\Product\AddBook.baml
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\Product\BookDetail.baml
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\Product\ListProduct.baml
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\SaleView\CreateSale.baml
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\SaleView\CreateSaleItem.baml
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Views\SaleView\SaleHistory.baml
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Store_Management.g.resources
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Store_Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Store_Management.AssemblyInfoInputs.cache
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Store_Management.AssemblyInfo.cs
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Store_Management.csproj.CoreCompileInputs.cache
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Store_Ma.01F27365.Up2Date
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Store_Management.dll
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\refint\Store_Management.dll
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Store_Management.pdb
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\Store_Management.genruntimeconfig.cache
+D:\Code\Support\WPF C#\BookStore\obj\Debug\net8.0-windows\ref\Store_Management.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Store_Management.exe
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\appsettings.json
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Store_Management.deps.json
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Store_Management.runtimeconfig.json
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Store_Management.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Store_Management.pdb
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Humanizer.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\LiveCharts.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.DataProtection.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Features.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Identity.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Identity.Core.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Extensions.WebEncoders.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Net.Http.Headers.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Store_Management.csproj.AssemblyReference.cache
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Resources\Style.baml
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\AuthorView\AuthorDetail.g.cs
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\EmployeeView\EmployeeDetails.g.cs
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\EmployeeView\EmployeeList.g.cs
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\EmployeeView\EmployeeWindow.g.cs
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\EmployeeView\Login.g.cs
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\EmployeeView\Signup.g.cs
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\HomePage.g.cs
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\Product\AddBook.g.cs
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\Product\BookDetail.g.cs
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\Product\ListProduct.g.cs
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\SaleView\CreateSale.g.cs
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\SaleView\CreateSaleItem.g.cs
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\SaleView\SaleHistory.g.cs
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\App.g.cs
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Store_Management_MarkupCompile.cache
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Store_Management_MarkupCompile.lref
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\App.baml
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Resources\ViewModelTemplate.baml
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\AuthorView\AuthorDetail.baml
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\EmployeeView\EmployeeDetails.baml
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\EmployeeView\EmployeeList.baml
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\EmployeeView\EmployeeWindow.baml
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\EmployeeView\Login.baml
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\EmployeeView\Signup.baml
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\HomePage.baml
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\Product\AddBook.baml
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\Product\BookDetail.baml
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\Product\ListProduct.baml
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\SaleView\CreateSale.baml
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\SaleView\CreateSaleItem.baml
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Views\SaleView\SaleHistory.baml
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Store_Management.g.resources
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Store_Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Store_Management.AssemblyInfoInputs.cache
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Store_Management.AssemblyInfo.cs
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Store_Management.csproj.CoreCompileInputs.cache
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Store_Ma.01F27365.Up2Date
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Store_Management.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\refint\Store_Management.dll
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Store_Management.pdb
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\Store_Management.genruntimeconfig.cache
+D:\prn212_project_suuuuuuuuuuuuuuuu\BookStore\obj\Debug\net8.0-windows\ref\Store_Management.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Store_Management.exe
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\appsettings.json
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Store_Management.deps.json
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Store_Management.runtimeconfig.json
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Store_Management.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Store_Management.pdb
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Humanizer.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\LiveCharts.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.AspNetCore.DataProtection.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Features.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Identity.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Extensions.Identity.Core.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Extensions.WebEncoders.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Net.Http.Headers.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Store_Management.csproj.AssemblyReference.cache
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Resources\Style.baml
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\AuthorView\AuthorDetail.g.cs
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\EmployeeView\EmployeeDetails.g.cs
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\EmployeeView\EmployeeList.g.cs
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\EmployeeView\EmployeeWindow.g.cs
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\EmployeeView\Login.g.cs
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\EmployeeView\Signup.g.cs
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\HomePage.g.cs
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\Product\AddBook.g.cs
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\Product\BookDetail.g.cs
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\Product\ListProduct.g.cs
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\SaleView\CreateSale.g.cs
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\SaleView\CreateSaleItem.g.cs
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\SaleView\SaleHistory.g.cs
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\App.g.cs
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Store_Management_MarkupCompile.cache
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Store_Management_MarkupCompile.lref
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\App.baml
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Resources\ViewModelTemplate.baml
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\AuthorView\AuthorDetail.baml
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\EmployeeView\EmployeeDetails.baml
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\EmployeeView\EmployeeList.baml
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\EmployeeView\EmployeeWindow.baml
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\EmployeeView\Login.baml
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\EmployeeView\Signup.baml
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\HomePage.baml
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\Product\AddBook.baml
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\Product\BookDetail.baml
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\Product\ListProduct.baml
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\SaleView\CreateSale.baml
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\SaleView\CreateSaleItem.baml
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Views\SaleView\SaleHistory.baml
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Store_Management.g.resources
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Store_Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Store_Management.AssemblyInfoInputs.cache
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Store_Management.AssemblyInfo.cs
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Store_Management.csproj.CoreCompileInputs.cache
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Store_Ma.01F27365.Up2Date
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Store_Management.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\refint\Store_Management.dll
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Store_Management.pdb
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\Store_Management.genruntimeconfig.cache
+D:\FPT\Semeter V\PRN212\groupProject\booking-management\obj\Debug\net8.0-windows\ref\Store_Management.dll

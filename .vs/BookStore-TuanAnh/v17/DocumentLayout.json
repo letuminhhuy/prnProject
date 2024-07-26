@@ -1,0 +1,431 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Support\\WPF C#\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\utils\\storesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:utils\\storesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\utils\\dialogutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:utils\\dialogutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\utils\\navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:utils\\navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\utils\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:utils\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\utils\\roleutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:utils\\roleutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\utils\\passwordhashehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:utils\\passwordhashehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\viewmodels\\employeevm\\employeedetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:viewmodels\\employeevm\\employeedetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\viewmodels\\publishervm\\publisherselectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:viewmodels\\publishervm\\publisherselectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\views\\authorview\\authordetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:views\\authorview\\authordetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\viewmodels\\authorvm\\authordetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:viewmodels\\authorvm\\authordetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\views\\authorview\\authordetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:views\\authorview\\authordetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\views\\product\\bookdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:views\\product\\bookdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\views\\product\\listproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:views\\product\\listproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\views\\product\\addbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:views\\product\\addbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\views\\product\\addbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:views\\product\\addbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|d:\\code\\support\\wpf c#\\BookStore\\migrations\\20240721063019_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82426D3-0536-42AD-9E14-79F2A2A4431D}|Store_Management.csproj|solutionrelative:migrations\\20240721063019_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\Views\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\HomePage.xaml.cs",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\Views\\HomePage.xaml.cs",
+              "RelativeToolTip": "Views\\HomePage.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:55:14.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StoreSession.cs",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\Utils\\StoreSession.cs",
+              "RelativeDocumentMoniker": "Utils\\StoreSession.cs",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\Utils\\StoreSession.cs",
+              "RelativeToolTip": "Utils\\StoreSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:53:37.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoleUtil.cs",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\Utils\\RoleUtil.cs",
+              "RelativeDocumentMoniker": "Utils\\RoleUtil.cs",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\Utils\\RoleUtil.cs",
+              "RelativeToolTip": "Utils\\RoleUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:53:06.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PasswordHasheHelper.cs",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\Utils\\PasswordHasheHelper.cs",
+              "RelativeDocumentMoniker": "Utils\\PasswordHasheHelper.cs",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\Utils\\PasswordHasheHelper.cs",
+              "RelativeToolTip": "Utils\\PasswordHasheHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:52:50.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\Utils\\Notification.cs",
+              "RelativeDocumentMoniker": "Utils\\Notification.cs",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\Utils\\Notification.cs",
+              "RelativeToolTip": "Utils\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:52:26.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Navigator.cs",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\Utils\\Navigator.cs",
+              "RelativeDocumentMoniker": "Utils\\Navigator.cs",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\Utils\\Navigator.cs",
+              "RelativeToolTip": "Utils\\Navigator.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:52:10.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DialogUtil.cs",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\Utils\\DialogUtil.cs",
+              "RelativeDocumentMoniker": "Utils\\DialogUtil.cs",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\Utils\\DialogUtil.cs",
+              "RelativeToolTip": "Utils\\DialogUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:52:09.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeDetailsVM.cs",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\ViewModels\\EmployeeVM\\EmployeeDetailsVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EmployeeVM\\EmployeeDetailsVM.cs",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\ViewModels\\EmployeeVM\\EmployeeDetailsVM.cs",
+              "RelativeToolTip": "ViewModels\\EmployeeVM\\EmployeeDetailsVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:52:00.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "Views\\HomePage.xaml",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\Views\\HomePage.xaml",
+              "RelativeToolTip": "Views\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T08:46:05.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\Services\\AuthorService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthorService.cs",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\Services\\AuthorService.cs",
+              "RelativeToolTip": "Services\\AuthorService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:42:53.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomeVM.cs",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "ViewModels\\HomeVM.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwEIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:55:27.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PublisherSelectVM.cs",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\ViewModels\\PublisherVM\\PublisherSelectVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\PublisherVM\\PublisherSelectVM.cs",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\ViewModels\\PublisherVM\\PublisherSelectVM.cs",
+              "RelativeToolTip": "ViewModels\\PublisherVM\\PublisherSelectVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:51:41.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:51:10.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T08:51:06.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthorDetail.xaml.cs",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\Views\\AuthorView\\AuthorDetail.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AuthorView\\AuthorDetail.xaml.cs",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\Views\\AuthorView\\AuthorDetail.xaml.cs",
+              "RelativeToolTip": "Views\\AuthorView\\AuthorDetail.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:49:53.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthorDetail.xaml",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\Views\\AuthorView\\AuthorDetail.xaml",
+              "RelativeDocumentMoniker": "Views\\AuthorView\\AuthorDetail.xaml",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\Views\\AuthorView\\AuthorDetail.xaml",
+              "RelativeToolTip": "Views\\AuthorView\\AuthorDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T08:49:49.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookDetail.xaml",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\Views\\Product\\BookDetail.xaml",
+              "RelativeDocumentMoniker": "Views\\Product\\BookDetail.xaml",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\Views\\Product\\BookDetail.xaml",
+              "RelativeToolTip": "Views\\Product\\BookDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T08:48:55.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ListProduct.xaml",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\Views\\Product\\ListProduct.xaml",
+              "RelativeDocumentMoniker": "Views\\Product\\ListProduct.xaml",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\Views\\Product\\ListProduct.xaml",
+              "RelativeToolTip": "Views\\Product\\ListProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T08:48:54.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddBook.xaml.cs",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\Views\\Product\\AddBook.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\Product\\AddBook.xaml.cs",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\Views\\Product\\AddBook.xaml.cs",
+              "RelativeToolTip": "Views\\Product\\AddBook.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:46:35.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddBook.xaml",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\Views\\Product\\AddBook.xaml",
+              "RelativeDocumentMoniker": "Views\\Product\\AddBook.xaml",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\Views\\Product\\AddBook.xaml",
+              "RelativeToolTip": "Views\\Product\\AddBook.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T08:46:33.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthorDetailVM.cs",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\ViewModels\\AuthorVM\\AuthorDetailVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AuthorVM\\AuthorDetailVM.cs",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\ViewModels\\AuthorVM\\AuthorDetailVM.cs",
+              "RelativeToolTip": "ViewModels\\AuthorVM\\AuthorDetailVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:45:56.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:42:54.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Services\\BookService.cs",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\Services\\BookService.cs",
+              "RelativeToolTip": "Services\\BookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:42:53.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240721063019_Initial.cs",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\Migrations\\20240721063019_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240721063019_Initial.cs",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\Migrations\\20240721063019_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240721063019_Initial.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:30:19.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StoreDbContext.cs",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\Data\\StoreDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\StoreDbContext.cs",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\Data\\StoreDbContext.cs",
+              "RelativeToolTip": "Data\\StoreDbContext.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAiwIkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:28:20.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\Support\\WPF C#\\BookStore\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Code\\Support\\WPF C#\\BookStore\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-21T06:27:45.762Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
